@@ -1,0 +1,3 @@
+[submodule "nest-firebase-functions"]
+	path = nest-firebase-functions
+	url = https://github.com/dominic-ks/nest-firebase-functions.git
